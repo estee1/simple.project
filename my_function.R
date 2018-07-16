@@ -3,4 +3,4 @@ foo <- 1
 foo <- 'that'
 THIS IS ME 
 bar<- 'this'
-foo + bar
+baz<- foo + bar
